@@ -1,0 +1,9 @@
+Started by user [8mha:////4Ml3j7zRfFCMhJl2pyunJygVjQ4UZCTCMzDTRhRPD1JxAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Running as SYSTEM
+Building in workspace /var/lib/jenkins/workspace/test_job
+[test_job] $ /bin/bash /tmp/jenkins7817612923124835616.sh
+[Slack Notifications] will send OnSuccessNotification because build matches and user preferences allow it
+Using dirname=/var/lib/jenkins/workspace/test_job and includeMask=result.txt
+Adding file /var/lib/jenkins/workspace/test_job/result.txt
+Slack upload may have failed. Response: {"ok":false,"error":"invalid_auth"}
+Finished: SUCCESS
